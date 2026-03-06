@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Radleigh</h1>
 <h3 align="center">A programmer from the UK</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=developerrradleighpompei&label=Profile%20views&color=0e75b6&style=flat" alt="developerrradleighpompei" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=developerrradleigh&label=Profile%20views&color=0e75b6&style=flat" alt="developerrradleighpompei" /> </p>
 
 - 🔭 I’m currently working on **Machine Learning**
 <p align="left">
